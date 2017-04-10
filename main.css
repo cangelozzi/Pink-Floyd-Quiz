@@ -13,7 +13,7 @@ button {
 	padding: 5px 40px;
 	border-radius: 10px;
 	border: 10px solid black;
- 	border-width: 5px;	
+ 	border-width: 5px;
     border-style: groove;
     margin-top: 30px;
     font-size: 40px;
@@ -51,7 +51,7 @@ p {
 
 .intro {
 	border: 1px solid black;
- 	border-width: 5px;	
+ 	border-width: 5px;
     border-style: groove;
     width: 500px;
     margin: 0 auto;
@@ -66,7 +66,7 @@ p {
   	width: 400px;
   	padding-top: 20px;
   	border: 1px solid black;
- 	border-width: 5px;	
+ 	border-width: 5px;
     border-style: groove;
     width: 800px;
     margin: 0 auto;
@@ -103,6 +103,7 @@ li {
 
 .js-message, .finalPage {
 	padding-left: 30px;
+	padding-right: 30px;
 }
 
 
